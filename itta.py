@@ -16,7 +16,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("🧊 日本株・全銘柄スキャナー")
+st.title("🧊 ittameigara")
 
 # 2. サイドバー
 with st.sidebar:
